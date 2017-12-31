@@ -2,10 +2,10 @@ package Start;
 
 public class Start {
     public static void main(String[] args) {
-//        float pi = 3.14f;
-//        pi = (float) (pi *2 + 2.2);
-//         int a = 12;
-//           a = 2 * a - (20 + 5);
+      float pi = 3.14f;
+        pi = (float) (pi *2 + 2.2);
+         int a = 12;
+        a = 2 * a - (20 + 5);
 
 //                boolean b = false;
 //                    char c = 't';
